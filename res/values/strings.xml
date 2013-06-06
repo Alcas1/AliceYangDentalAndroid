@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Alice Yang Family Dentistry, PC</string>
+	<string name="app_name_event_history"></string>
+	<string name="main_add_event">Add a Appointment</string>
+	<string name="main_event_history">Appointment History</string>
+	<string name="main_call">Call Office</string>
+	<string name="main_email">Send an Email</string>
+	<string name="main_add_review">Add a review</string>
+	<string name="main_map">Map &amp; Direction</string>
+	<string name="main_credits">Jonathan Wu and Hongping</string>
+	<string name="splash_welcome">Welcome to Alice Yang Family Dentistry </string>
+</resources>
