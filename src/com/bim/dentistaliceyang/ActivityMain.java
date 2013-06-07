@@ -34,7 +34,7 @@ public class ActivityMain extends Activity {
 				doEventHistory();
 			}
 		});*/
-		View mAddReview=findViewById(R.id.main_add_review_button);
+		/*View mAddReview=findViewById(R.id.main_add_review_button);
 		mAddReview.setOnClickListener(new View.OnClickListener() {
 			
 			public void onClick(View view) {
@@ -43,7 +43,7 @@ public class ActivityMain extends Activity {
 				doAddReview();
 			}
 		});
-		
+		*/
 		
 
 		View mCall = findViewById(R.id.main_call_button);

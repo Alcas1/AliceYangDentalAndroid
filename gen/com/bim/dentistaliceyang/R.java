@@ -46,13 +46,12 @@ public final class R {
     }
     public static final class id {
         public static final int main_add_event_button=0x7f080004;
-        public static final int main_add_review_button=0x7f080005;
-        public static final int main_call_button=0x7f080006;
-        public static final int main_email_button=0x7f080007;
-        public static final int main_map_button=0x7f080008;
+        public static final int main_call_button=0x7f080005;
+        public static final int main_email_button=0x7f080006;
+        public static final int main_map_button=0x7f080007;
         public static final int message=0x7f080002;
         public static final int name=0x7f080000;
-        public static final int progressBar1=0x7f080009;
+        public static final int progressBar1=0x7f080008;
         public static final int sendEmail=0x7f080003;
         public static final int subject=0x7f080001;
     }
