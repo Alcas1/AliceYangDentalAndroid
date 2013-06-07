@@ -5,6 +5,7 @@
 	<string name="main_add_event">Add a Appointment</string>
 	<string name="main_event_history">Appointment History</string>
 	<string name="main_call">Call Office</string>
+	<string name="main_office_hours">Office Hours</string>
 	<string name="main_email">Send an Email</string>
 	<string name="main_add_review">Add a review</string>
 	<string name="main_map">Map &amp; Direction</string>

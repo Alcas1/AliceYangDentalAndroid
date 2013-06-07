@@ -38,6 +38,17 @@
                 android:textSize="25sp" />
 
             <Button
+                android:id="@+id/main_office_hours_button"
+                style="@style/core_ButtonText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/core_bg_button_yellow"
+                android:text="@string/main_office_hours"
+                android:textSize="25sp" />
+            
+            
+            <Button
                 android:id="@+id/main_call_button"
                 style="@style/core_ButtonText"
                 android:layout_width="fill_parent"
@@ -71,7 +82,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="right"
-                android:layout_marginTop="15dp"
+                android:layout_marginTop="30dp"
                 android:text="@string/main_credits"
                 android:textSize="8sp" />
         </LinearLayout>

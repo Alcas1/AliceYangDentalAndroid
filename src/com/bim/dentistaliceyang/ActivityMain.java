@@ -26,7 +26,14 @@ public class ActivityMain extends Activity {
 				doAddEvent();
 			}
 		});
-
+		
+		View mOfficeHours = findViewById(R.id.main_office_hours_button);
+		mOfficeHours.setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				Ding.start();
+				doOfficeHours();
+			}
+		});
 		/*View mEventHistory = findViewById(R.id.main_event_history_button);
 		mEventHistory.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View view) {
@@ -91,6 +98,12 @@ public class ActivityMain extends Activity {
 	{
 		
 		
+	}
+	
+	private void doOfficeHours()
+	{
+		Intent intent = new Intent("android.intent.action.OfficeHours");
+		startActivity(intent);
 	}
 	
 	private void doCall() {

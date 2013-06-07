@@ -45,20 +45,23 @@ public final class R {
         public static final int yellow=0x7f02000b;
     }
     public static final class id {
-        public static final int main_add_event_button=0x7f080004;
-        public static final int main_call_button=0x7f080005;
-        public static final int main_email_button=0x7f080006;
-        public static final int main_map_button=0x7f080007;
+        public static final int goBack=0x7f080004;
+        public static final int main_add_event_button=0x7f080005;
+        public static final int main_call_button=0x7f080007;
+        public static final int main_email_button=0x7f080008;
+        public static final int main_map_button=0x7f080009;
+        public static final int main_office_hours_button=0x7f080006;
         public static final int message=0x7f080002;
         public static final int name=0x7f080000;
-        public static final int progressBar1=0x7f080008;
+        public static final int progressBar1=0x7f08000a;
         public static final int sendEmail=0x7f080003;
         public static final int subject=0x7f080001;
     }
     public static final class layout {
         public static final int email=0x7f030000;
-        public static final int main=0x7f030001;
-        public static final int splash=0x7f030002;
+        public static final int hours=0x7f030001;
+        public static final int main=0x7f030002;
+        public static final int splash=0x7f030003;
     }
     public static final class raw {
         public static final int ding=0x7f040000;
@@ -68,13 +71,14 @@ public final class R {
         public static final int app_name=0x7f060000;
         public static final int app_name_event_history=0x7f060001;
         public static final int main_add_event=0x7f060002;
-        public static final int main_add_review=0x7f060006;
+        public static final int main_add_review=0x7f060007;
         public static final int main_call=0x7f060004;
-        public static final int main_credits=0x7f060008;
-        public static final int main_email=0x7f060005;
+        public static final int main_credits=0x7f060009;
+        public static final int main_email=0x7f060006;
         public static final int main_event_history=0x7f060003;
-        public static final int main_map=0x7f060007;
-        public static final int splash_welcome=0x7f060009;
+        public static final int main_map=0x7f060008;
+        public static final int main_office_hours=0x7f060005;
+        public static final int splash_welcome=0x7f06000a;
     }
     public static final class style {
         public static final int TextAppearance_Theme_PlainText=0x7f070006;
