@@ -67,5 +67,7 @@ public class Email extends Activity{
 		intent.putExtra(android.content.Intent.EXTRA_TEXT,body);
 		//Aliceyangdental@gmail.com
 		startActivity(intent);
+		Intent start=new Intent("android.intent.action.start");
+		startActivity(start);
 	}
 }
