@@ -49,7 +49,7 @@ public class Email extends Activity{
 	private void sendEmail() {
 		editTextToStrings();
 		Ding.start();
-		String emailrecieve[]={"jonathanwu70@gmail.com"};
+		String emailrecieve[]={"Aliceyangdental@gmail.com"};
 		String body="Name:"
 				+nameAdd
 				+'\n'
